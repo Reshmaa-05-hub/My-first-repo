@@ -1,0 +1,3 @@
+Name: Reshmaa sree Galla
+course:B.sc Data Science
+The thing that I have learned about GitHub is to how to create repositories
